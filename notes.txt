@@ -1,0 +1,47 @@
+section define  5
+layout define
+
+
+code comment
+semantic markup
+cross browser support
+cross platform support
+reusable block -html, css
+css hierachy- width, height
+
+
+SEO friendly
+h1-h6
+o
+img-name, alt
+strong
+em
+
+speed optimization 
+img
+video
+audio
+code
+
+ui & ux
+color
+typography
+spacing
+
+asset gather
+image
+icon
+font
+text
+
+font family
+font size
+word spacing
+
+color
+sb-#1493ff
+nb-#0f2656
+red-#f36c7a
+pink-#fdebed
+green-#ebf9f4
+beige-#fff7e8
